@@ -57,11 +57,3 @@ Este projeto contém implementações de conjuntos de espalhamento em Java, incl
    java TesteEspalhamento
    java TesteHashSet
    ```
-
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests no repositório.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
